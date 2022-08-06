@@ -1,1 +1,1 @@
-# salon-appointment-schedule
+# Salon Appointment Schedule
